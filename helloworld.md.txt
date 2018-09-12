@@ -1,4 +1,8 @@
 Hello World!
 a second line
 a third line
+<<<<<<< HEAD
 a fourth line
+=======
+a fourth line
+>>>>>>> e35c32272be1a18c17f63714c251a613e128f841
